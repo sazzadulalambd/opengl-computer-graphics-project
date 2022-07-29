@@ -1,5 +1,9 @@
 //sazzad ul alam shawon (19-39385-1) AIUB
 //sazzadulalambd
+//sazzadulalamshawon@gmail.com
+//https://www.facebook.com/sazzadulalamshawonbd
+//https://www.facebook.com/ProgrammingwithSUAS
+//https://youtu.be/JgbkEQfEqCQ
 
 #include <iostream>
 #include <GL/gl.h>
