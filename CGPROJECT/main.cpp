@@ -1,4 +1,3 @@
-//simple ATM system.
 //sazzad ul alam shawon (19-39385-1) AIUB
 //sazzadulalambd
 
